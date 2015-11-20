@@ -1,0 +1,23 @@
+{
+  "name": "herekittykitty",
+  "version": "0.0.1",
+  "description": "Random Kitten GIF provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opedromiranda/herekittykitty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/opedromiranda/herekittykitty/issues"
+  },
+  "homepage": "https://github.com/opedromiranda/herekittykitty#readme"
+}
