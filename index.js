@@ -35,12 +35,4 @@ function hereKittyKitty(cb) {
   });
 }
 
-/*
-hereKittyKitty(function (err, result) {
-  if (err) {
-    return;
-  }
-  console.log(result);
-});
-*/
 module.exports = hereKittyKitty;
